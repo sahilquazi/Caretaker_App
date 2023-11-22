@@ -13,6 +13,18 @@
         android:theme="@style/Theme.CaretakerApp"
         tools:targetApi="31">
         <activity
+            android:name=".SymptomsList"
+            android:exported="false" />
+        <activity
+            android:name=".LocationTracking"
+            android:exported="false" />
+        <activity
+            android:name=".DietaryRestriction"
+            android:exported="false" />
+        <activity
+            android:name=".MedicationReminder"
+            android:exported="false" />
+        <activity
             android:name=".MessagingFactor"
             android:exported="false" />
         <activity
