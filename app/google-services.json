@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905898200321",
+    "project_id": "caretap-9ab50",
+    "storage_bucket": "caretap-9ab50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905898200321:android:14e4023460110b5178df00",
+        "android_client_info": {
+          "package_name": "com.example.caretakerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAorl7IioZmL2lydIJeo7-dmkvwdHdxIVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
