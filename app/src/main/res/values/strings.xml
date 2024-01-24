@@ -4,5 +4,7 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="my_map_api_key">AIzaSyDkhkeTRN4wSHnzS1u-2I_yTTUW1u2Q-pw</string>
+    <string name="title_activity_dietary_restrictions2">DietaryRestrictions2</string>
+    <string name="title_activity_dietary_resttriction2">DietaryResttriction2</string>
 
 </resources>
