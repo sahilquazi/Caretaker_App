@@ -24,3 +24,4 @@ public class DietaryRestriction2 extends AppCompatActivity {
         receiver_msg.setText(str);
     }
 }
+
