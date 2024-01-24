@@ -24,7 +24,7 @@
             android:name=".LocationTracking"
             android:exported="false" />
         <activity
-            android:name=".DietaryRestriction"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".MedicationReminder"
@@ -33,13 +33,13 @@
             android:name=".MessagingFactor"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".DietaryRestriction"
             android:exported="true"
             android:label="@string/app_name" >
             <intent-filter>
-                <action android:name=".DietaryRestriction" />
-
+                <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
+
             </intent-filter>
         </activity>
 
